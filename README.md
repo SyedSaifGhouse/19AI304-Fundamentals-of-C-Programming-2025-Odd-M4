@@ -94,7 +94,8 @@ int main() {
 }
 ```
 # Output:
-<img width="807" height="201" alt="image" src="https://github.com/user-attachments/assets/37184b54-0053-4115-946c-9a36749357bd" />
+
+<img width="617" height="276" alt="image" src="https://github.com/user-attachments/assets/d00b71d6-f9db-4a91-a817-fe3561118a69" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -176,7 +177,8 @@ int main() {
 }
 ```
 # Output:
-<img width="1001" height="358" alt="image" src="https://github.com/user-attachments/assets/3f80fa57-3be6-4786-8175-6a26d52bfdcb" />
+<img width="602" height="292" alt="image" src="https://github.com/user-attachments/assets/7f5d7310-6501-43e6-9987-6023918d3713" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -260,7 +262,8 @@ float ftocel() {
 }
 ```
 # Output:
-<img width="1005" height="352" alt="image" src="https://github.com/user-attachments/assets/4958f852-e717-43d5-891f-69322d0c17c7" />
+<img width="702" height="330" alt="image" src="https://github.com/user-attachments/assets/c8aa6d3b-22ae-4889-8c3a-917101f080cf" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -355,7 +358,8 @@ int main() {
 }
 ```
 # Output:
-<img width="1011" height="241" alt="image" src="https://github.com/user-attachments/assets/59ad349b-ffaf-4367-8091-5465e5d68cdf" />
+<img width="681" height="240" alt="image" src="https://github.com/user-attachments/assets/25f47e9e-c892-46ec-9751-715176056ad1" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -426,7 +430,8 @@ int main() {
 }
 ```
 # Output:
-<img width="1006" height="310" alt="image" src="https://github.com/user-attachments/assets/5350b0a9-b14c-4b9f-8580-dea4a99c1368" />
+<img width="543" height="226" alt="image" src="https://github.com/user-attachments/assets/c8898500-5fda-4d22-871a-76c51099f7ed" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
